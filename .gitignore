@@ -1,0 +1,14 @@
+# Directories
+__pycache__
+.venv
+data
+.pytest_cache
+mnist_cicd_pipeline.egg-info
+
+# Files
+*.pyc
+*.pyo
+*.pyd
+*.png
+*.gif
+*.pth
